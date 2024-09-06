@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.primeira-sessao{
+    background-color: rgb(120, 120, 241);
+   width: 600px;
+   height: 500px;
+    div{
+        background-color: rgb(73, 73, 207);
+        width: 50vw;
+        height: 50vh;
+    }
+}
+.segunda-sessao{
+    background-color: pink;
+    height: 500px;
+    width: 500px;
+    div{
+        background-color: purple;
+        height:50%;
+        width:50% ;
+    }
+}
